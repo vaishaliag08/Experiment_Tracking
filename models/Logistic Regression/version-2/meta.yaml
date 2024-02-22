@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1708622668060
+current_stage: None
+description: A new version of Logistic Regression model.
+last_updated_timestamp: 1708622668060
+name: Logistic Regression
+run_id: 76b46d06ba1e453489df453c62af0fb9
+run_link: ''
+source: mlflow-artifacts:/0/76b46d06ba1e453489df453c62af0fb9/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/76b46d06ba1e453489df453c62af0fb9/artifacts/sklearn-model
+user_id: null
+version: 2

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1708622553352
+current_stage: None
+description: A new version of Support Vector Classifier model.
+last_updated_timestamp: 1708622553352
+name: Support Vector Classifier
+run_id: 7fda99c36e6e401d9b95934e421c4875
+run_link: ''
+source: mlflow-artifacts:/0/7fda99c36e6e401d9b95934e421c4875/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/7fda99c36e6e401d9b95934e421c4875/artifacts/sklearn-model
+user_id: null
+version: 1
