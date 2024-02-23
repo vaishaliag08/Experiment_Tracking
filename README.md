@@ -36,6 +36,7 @@ Steps in `prepare.ipynb` file.
 - Repeat the steps to analyze the distribution of different versions of the data.
 
 ## Model Version Control and Experiment Tracking with ML Flow
+Steps in the `train.ipynb` file.
 - Train the 3 benchmark models.
 - Run and track the models in MLFlow.
 ![image](images/registered_models.png)
